@@ -1,4 +1,4 @@
-# Hi there, I'm Adeyemo Taiwo Muheebudeen  👋
+# Hi there, I'm Adeyemo Taiwo Muheebudeen 👋
 
 **Design Engineer · Frontend Developer · UI/UX Designer**
 
@@ -20,7 +20,7 @@ A personal finance app helping university students track expenses, manage budget
 
 `React Native` `Expo` `TypeScript` `Supabase` `Figma`
 
-🔗 [View Live](#) &nbsp;·&nbsp; [View Design](#)
+🔗 [View Design](https://www.behance.net/gallery/247651931/CampusKobo-Mobile-App)
 
 ---
 
@@ -29,7 +29,7 @@ A modern real estate dashboard for managing property listings, tracking inquirie
 
 `React` `Tailwind CSS` `JavaScript` `Figma`
 
-🔗 [View Live](#) &nbsp;·&nbsp; [View Design](#)
+🔗 [View Live](https://nex-city-reality-dashboard.vercel.app/) &nbsp;·&nbsp; [View Design](https://www.behance.net/gallery/236814175/NextCity-Realty-Dashboard)
 
 ---
 
@@ -38,7 +38,7 @@ Full e-commerce flow for a Lagos bakery — customers can browse products, view 
 
 `React` `Tailwind CSS` `Figma` `JavaScript`
 
-🔗 [View Live](#) &nbsp;·&nbsp; [View Design](#)
+🔗 [View Live](https://optopcakes.vercel.app/) &nbsp;·&nbsp; [View Design](https://www.behance.net/gallery/236814881/Optopcakes)
 
 ---
 
@@ -59,8 +59,10 @@ Full e-commerce flow for a Lagos bakery — customers can browse products, view 
 
 - 🌐 Portfolio: [adeyemo.tm](https://adeyemo.tm)
 - ✉️ Email: adeyemotaiwo.m@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/adeyemo-taiwo](https://linkedin.com/in/adeyemo-taiwo)
-- 🐙 GitHub: [github.com/adeyemo-taiwo-m](https://github.com/adeyemo-taiwo-m)
+- 💼 LinkedIn: [linkedin.com/in/adeyemo-taiwo-m](https://www.linkedin.com/in/adeyemo-taiwo-m-035425284/)
+- 🐦 Twitter / X: [atmdesigns_dev](https://x.com/atmdesigns_dev)
+- 📸 Instagram: [atmdesigns.dev](https://instagram.com/atmdesigns.dev)
+- 🎨 Behance: [adeyemotaiwom](https://www.behance.net/adeyemotaiwom)
 
 ---
 
