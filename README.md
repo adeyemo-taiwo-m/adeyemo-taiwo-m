@@ -57,7 +57,7 @@ Full e-commerce flow for a Lagos bakery — customers can browse products, view 
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [adeyemo.tm](https://adeyemo.tm)
+- 🌐 Portfolio: [atm-self.vercel.app](https://atm-self.vercel.app)
 - ✉️ Email: adeyemotaiwo.m@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/adeyemo-taiwo-m](https://www.linkedin.com/in/adeyemo-taiwo-m-035425284/)
 - 🐦 Twitter / X: [atmdesigns_dev](https://x.com/atmdesigns_dev)
