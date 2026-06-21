@@ -51,7 +51,7 @@ Full e-commerce flow for a Lagos bakery — customers can browse products, view 
 | Styling | Tailwind CSS, Framer Motion, GSAP |
 | Mobile | React Native, Expo |
 | Backend | Supabase |
-| Tools | Git, GitHub |
+| Tools | Git and GitHub |
 
 ---
 
